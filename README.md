@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything about code.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me juliana.meneses619@pascualbravo.edu.co
+- 📫 How to reach me julianamenesescoder@gmail.com
 
 <!---
 jume1204/jume1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
